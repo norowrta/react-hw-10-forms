@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.item {
+  display: flex;
+  gap: 20px;
+}
+.button {
+padding: 0px 20px;
+}
